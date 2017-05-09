@@ -1,1 +1,1 @@
-# qinli-tech.github.io
+# qinli.tech
